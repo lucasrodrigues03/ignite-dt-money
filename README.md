@@ -37,6 +37,14 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Json Server
 - zod
 
+## 🚀 Como executar
+
+- Clone o repositório
+- Rode `npm` para baixar as dependências
+- Rode o `npm run dev` para iniciar a aplicação.
+
+Por fim, a aplicação estará disponível em `http://localhost:3000`
+
 
 ## 💻 Projeto desenvolvido durante o bootcamp da Rocketseat!
 
