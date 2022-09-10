@@ -37,7 +37,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - zod
 
 
-## 💻 Projeto
+## 💻 Projeto desenvolvido durante o bootcamp da Rocketseat!
 
 O Dt-money é uma nova versão de um projeto já existente no meu repositório, porém desta vez totalmente funcional e performático, já com uma conexão com uma API, uma aplicação front-end web completa com todo fluxo de renderização de componentes.
 
