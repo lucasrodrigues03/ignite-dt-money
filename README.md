@@ -33,6 +33,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - React hook-form
 - styled-components
 - Axios
+- Radix
 - Json Server
 - zod
 
