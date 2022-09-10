@@ -39,8 +39,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O dt-money é uma aplicação para controle de gastos financeiros, onde o usuário controla o que entra e o que sai, obtendo a descrição do produto e data.
-
+O Dt-money é uma nova versão de um projeto já existente no meu repositório, porém desta vez totalmente funcional e performático, já com uma conexão com uma API, uma aplicação front-end web completa com todo fluxo de renderização de componentes.
 
 
 
