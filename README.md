@@ -1,14 +1,22 @@
-## ignite-dt-money
-
-<p>
-![Dtm](https://user-images.githubusercontent.com/86750985/189460926-6fa9347f-50af-4833-a63a-9b0c93a2ee4e.png)
+# # finances<p align="center">
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
-<p>
-![Dtmmodal](https://user-images.githubusercontent.com/86750985/189461006-75e28771-3d5b-4bf9-8cec-e6906261b3f2.png)
+<p align="center">
+
+</p>
+
+<br>
+
+<p align="center">
 </p>
 
 
+## 🚀 Tecnologias
+
+
+Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
