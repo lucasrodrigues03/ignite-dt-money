@@ -29,12 +29,12 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - React.JS
-- Next.JS
 - TypeScript
-- Tanstack React-Query
-- Chakra UI
-- Mirage. JS
+- React hook-form
+- styled-components
 - Axios
+- Json Server
+- zod
 
 
 ## 💻 Projeto
